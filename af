@@ -1,0 +1,90 @@
+[33mcommit 986c67146df38a61649badb367ff952af2838320[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d432144 bd575d6
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 09:41:28 2020 +0800
+
+    conflict fixed
+
+[33mcommit d432144895870521060c2071e66560f8b6c41ec1[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 09:34:35 2020 +0800
+
+    & simple
+
+[33mcommit bd575d65ea5f532ba715ba044534822265e67ba1[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 09:32:57 2020 +0800
+
+    and simple
+
+[33mcommit ff798958b544dbedae79213e92b93d362ee2a50a[m[33m ([m[1;32mdev[m[33m)[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 09:26:40 2020 +0800
+
+    branch test
+
+[33mcommit dd13dbc6460c8d55a268cb87103e874a0cf5ad82[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 09:13:11 2020 +0800
+
+    add wxytest
+
+[33mcommit 44ac6ce286f3c3d110cd6141632e9bb9574e711a[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 08:57:22 2020 +0800
+
+    test
+
+[33mcommit 78a54cbafac0ad2b5ba4a8ea5049449d9c5c225a[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 08:52:56 2020 +0800
+
+    remove test.txt
+
+[33mcommit 4543ba24a6a0dadd8aac985b4b30dfd8490037e3[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 08:51:30 2020 +0800
+
+    add test.txt
+
+[33mcommit 50bf0063e2eebd348f4b6c3fcb6082b94ca99c0d[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 08:21:33 2020 +0800
+
+    second add
+
+[33mcommit dde6227ad5119f6b91ef5a56b01ead178c3534cf[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 08:18:58 2020 +0800
+
+    git tracks changes
+
+[33mcommit 7833e4ae9bf824f168fe6fe0f5430743af4bd635[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Mon Mar 9 08:14:17 2020 +0800
+
+    understand how stage works
+
+[33mcommit 8d1a04e29e4637bccd8d122c6cf5300cc5259b96[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Sun Mar 8 13:03:40 2020 +0800
+
+    append GPL
+
+[33mcommit 181f54a0b952ae59e1b28777d46a498b49a23d36[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Sun Mar 8 13:00:45 2020 +0800
+
+    add distributed
+
+[33mcommit 52721fc4528fa4021c24a6f3e58e477898265fad[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Sun Mar 8 12:56:29 2020 +0800
+
+    add 3 files
+
+[33mcommit 34a1f310729568f649f93a7fa4fe1542dfb3e113[m
+Author: ABetterGuy <15200372335@163.com>
+Date:   Sun Mar 8 12:52:04 2020 +0800
+
+    wrote a readme file
